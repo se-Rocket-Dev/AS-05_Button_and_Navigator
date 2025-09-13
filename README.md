@@ -1,4 +1,4 @@
-<img width="640" height="1358" alt="image" src="https://github.com/user-attachments/assets/c60c3ef1-e9ed-40d9-94f4-0643ceaf6fe4" /># AS-05_Button_and_Navigator
+# AS-05_Button_and_Navigator
 ## รันโปรแกรม
 <img width="662" height="1372" alt="image" src="https://github.com/user-attachments/assets/19156f23-abd0-461c-bd50-c10f9622fad8" />
 
